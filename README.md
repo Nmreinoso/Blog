@@ -14,13 +14,11 @@
     </style>
 </head>
 <body>
-
     <nav>
         <a href="#home">Home</a>
         <a href="#resume">Resume</a>
         <a href="#blog">Blog</a>
     </nav>
-
     <section id="home">
         <h1>Hi, I'm Natalia 👋</h1>
         <p><strong>Education:</strong> William & Mary, Economics Major</p>
@@ -31,7 +29,6 @@
             <span class="tag">Music</span>
         </div>
     </section>
-
     <section id="resume">
         <h2>Resume Inspiration</h2>
         <h3>Relevant Experience</h3>
@@ -43,7 +40,6 @@
         <h3>Skills</h3>
         <p>Data Analysis, Financial Modeling, Public Speaking, Writing.</p>
     </section>
-
     <section id="blog">
         <h2>Latest Post</h2>
         <article>
